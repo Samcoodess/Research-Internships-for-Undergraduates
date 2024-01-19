@@ -1,6 +1,6 @@
 # Research Internships for Undergraduates
 
-## Looking for someone to co-manage this repository.
+## Looking for someone to manage this repository in exchange for mentorship. [Apply here](https://forms.gle/BhCrhXE8ZYsG7zw9A)
 
 #### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
 
@@ -11,6 +11,7 @@ The following are some global research internship positions:
 CANADA
 
   * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+  * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
 
 US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
@@ -62,6 +63,7 @@ INDIA
 
   * [ICTS LONG TERM VISITING STUDENTS PROGRAM](https://www.icts.res.in/academic/long-term-visiting-student-program) for both International and Indian Students. Aims to provide opportunities to students of science, mathematics and engineering to spend a longer period of time (1 or 2 semesters).
   * [ICTS SN BHATT Memorial Excellence Fellowship](https://www.icts.res.in/academic/summer-research-program) for Undergraduate students of science, mathematics and engineering, who are in their third, fourth or fifth year of the program are eligible to apply. 
+  * [INSA-IASc-NASI SRFP](https://www.ias.ac.in) for undergraduate and postgraduate students in Chemistry, Earth and Planetary sciences, Engineering including computer sciences, Life sciences, mathematics and physics. The fellowship period is 56 days and is quite prestigious for anyone who wishes to go into the field of research.
 
 SOUTH KOREA
 
@@ -90,7 +92,7 @@ AUSTRIA
   * [ISternship Summer Student Program](https://phd.pages.ist.ac.at/isternship/), IST Austria
   
 HONG KONG 
-
+  * [HKU, Computer Science Department](https://www.cs.hku.hk/rintern/)
   * [IVISP, HKUST](https://pg.ust.hk/ivisp) (only for senior year undergraduates + postgraduates)
   * [SURP, CUHK](http://www.summer.cuhk.edu.hk/surp/)
   * [SURP (Hongkong)](http://www.summer.cuhk.edu.hk/surp/?fbclid=IwAR0-H6g4x7UetRxFQkcnK95zvgjkp81TjgCZlBgv-NjrRSxWiOxy84TZuhw)
@@ -107,6 +109,7 @@ ISRAEL
 SPAIN
 
  * [Summer Training Program,CNIO](https://www.cnio.es/en/education-and-career-development/career-development-programmes/undergraduate-students/)
+ * [ Computer Vision Center Internship Program](https://www.cvc.uab.es/internship/)
 
 FRANCE
 
@@ -134,7 +137,7 @@ The following are some research internships for Indian students:
 2. [ICTS Summer research program](https://www.icts.res.in/academic/summer-research-program), by ICTS-TIFR.
 3. [DAAD Wise Scholarship](https://www.daad.de/go/en/stipa50015295), for research positions in Germany
 4. [Shastri Research Student Fellowship](https://www.shastriinstitute.org/shastri-research-student-fellowship) by Shastri Indo-Canadian Institute
-5. [Viterbi India Program](https://www.iusstf.org/program/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
+5. [Viterbi India Program](https://iusstf.org/iusstf-viterbi-program), sponsored by IUSSTF and USC Viterbi
 6. [Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars), sponsored by IUSSTF
 8. [Charpak Global Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship), funded by French Embassy in India
 9. [Indian Student Internship Program at NTHU](http://oga.nthu.edu.tw/news.php?id=233&lang=en)
@@ -161,3 +164,5 @@ The following are some research internships for Indian students:
 30. [ISI Kolkata Summer Internship](https://www.isical.ac.in/~rcbose/internship/index.html)
 31. [IIT (ISM) Dhanbad SRIP Programme](https://www.iitism.ac.in/deans/research/SRIP.php)
 32. [IIIT Delhi](https://www.iiitd.ac.in/placement/summer-internships)
+33. [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
+33. [Summer Program, CeNSE IISc Bangalore](http://www.cense.iisc.ac.in/content/summer-program)
